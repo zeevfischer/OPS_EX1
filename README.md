@@ -1,6 +1,7 @@
 # Operating Systems  
 ### Ex1  
 ### written by: zeev fischer & oria zadok  
+### ids: 318960242_315500157  
 link to the git project:https://github.com/zeevfischer/OPS_EX1.git  
 
 הערה חשובה לבודק!!  
