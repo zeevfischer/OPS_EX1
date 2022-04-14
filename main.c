@@ -83,6 +83,7 @@ int main(int argc, char const *argv[])
                 return 0;
             }
         }
+        // fwrite, fread, fopen are libreary function
         else if (strncmp(command, "COPY ", 5) == 0)
         {
             char *src_name;
