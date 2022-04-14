@@ -37,6 +37,8 @@ int main(int argc, char const *argv[])
 
     while (strcmp(command, "EXIT"))
     {
+        // printf("yes master");
+
         print_cmd();   // print a prumpt
         gets(command); // get command
 
@@ -74,7 +76,7 @@ int main(int argc, char const *argv[])
                 i++;
             }
             new_path[i] = '\0';
-
+            // this is a system call chdir
             if (chdir(new_path) == -1)
             {
                 printf("-bash: cd: %s: No such file or directory\n", new_path);
