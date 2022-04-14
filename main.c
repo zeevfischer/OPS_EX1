@@ -125,7 +125,7 @@ int main(int argc, char const *argv[])
         else
         {
             // system(command);
-            // this is by the name a system command
+            // this is by the name a system command not a function
             int sys = fork();
             if (sys < 0)
             {
