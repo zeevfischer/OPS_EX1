@@ -1,1 +1,10 @@
-# OPS_EX1
+# Operating Systems  
+### Ex1  
+### written by: zeev fischer & oria zadok  
+### ids: 318960242_315500157  
+link to the git project:https://github.com/zeevfischer/OPS_EX1.git  
+
+הערה חשובה לבודק!!  
+אני לא עשיתי קורס תקשרות ולכן את ה- server,client כתבתי בעזרת מקורות חוץ אני מצרף את המקורות האלה מראש כי אני יודע שאני לא היחיד שהשתמש במקור זה ספציפית בנוסף בשיעור דיברתי עם המרצה ועדכנתי אותו שחלק מהקוד יהיה דומה בקבצים אלו ולא אמור להיות עם זה בעיה.  
+https://www.youtube.com/watch?v=io2G2yW1Qk8  
+https://github.com/nikhilroxtomar/TCP-Client-Server-Implementation-in-C  
